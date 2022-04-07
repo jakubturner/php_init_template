@@ -1,0 +1,62 @@
+/**
+ *
+ * BASE VARIABLES
+ *
+ **/
+$font-size-base: 1rem;
+
+/**
+  *
+  * COLORS
+  *
+  **/
+$white: #fff;
+$black: #000;
+
+//gray scale
+$gray-100: #fafafa;
+$gray-200: #f7fafc;
+$gray-300: #edf2f7;
+$gray-400: #e2e8f0;
+$gray-500: #cbd5e0;
+$gray-600: #a0aec0;
+$gray-700: #718096;
+$gray-800: #4a5568;
+$gray-900: #2d3748;
+$gray-1000: #1a202c;
+
+//collor pallet
+$primary: #ee1b27;
+$primary-light: #f3646c;
+$primary-dark: #c00e18;
+$primary-ultralight: #feebec;
+$success: #93e5ab;
+$success-light: #bcefcb;
+$success-dark: #55d67b;
+$info: #5bc0eb;
+$info-light: #9fdaf3;
+$info-lighter: #ebf9fe;
+$info-dark: #1ba4de;
+$danger: $primary;
+$dark: $gray-900;
+
+/**
+  *
+  * TYPOGRAPHY
+  *
+  **/
+$font-family-base: "Rubik", sans-serif;
+$font-family-alt: "Montserrat", sans-serif;
+
+/**
+  *
+  * CONTAINERS
+  *
+  **/
+// $container-max-widths: (
+//   sm: 540px,
+//   md: 720px,
+//   lg: 960px,
+//   xl: 1140px,
+//   xxl: 1338px,
+// );
